@@ -138,18 +138,3 @@ plot <- my_flower(points = 1000, num_colour = 6, col_option = "plasma")
 print(plot)
 
 
-
-
-
-
-
-
-
-# Shiny app
-
-# points = Number of points (up to 104729)
-# num_colour = Number of colours to use. When golden angle is used, seems like multiple of 6 makes colours line up?
-# col_option = I can use magma,viridis, plasma, inferno or cividis here
-# angle = Angle to use for drawing spirals. Default is set to golden angle pi*(3-sqrt(5))
-
-
